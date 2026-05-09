@@ -13,6 +13,7 @@ ENV/
 
 # Research outputs
 final_report.md
+summary.md
 *.log
 
 # IDE
