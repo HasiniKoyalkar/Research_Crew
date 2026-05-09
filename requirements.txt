@@ -1,0 +1,7 @@
+crewai[litellm]
+crewai[google-genai]
+ddgs
+requests
+beautifulsoup4
+python-dotenv
+google-generativeai
